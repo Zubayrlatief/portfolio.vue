@@ -1,5 +1,6 @@
 <template>
-  <NavBar/>
+  <div>
+      <NavBar/>
   <HomePage/>
   <AboutMe/>
   <MyProjects/>
@@ -8,6 +9,8 @@
   <ContactMe/>
   <router-view/>
   <AllFooter/>
+  </div>
+
 </template>
 
 <script>
