@@ -43,6 +43,7 @@
 <script>
 
 </script>
-<style lang="">
+<style scoped>
+
     
 </style>
